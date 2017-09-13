@@ -55,7 +55,7 @@ var Park = function (data) {
     self.marker.addListener('click', function () {
         self.contentString = infoText(self);
         self.infowindow.setContent(self.contentString);
-        closeModal()
+        closeModal();
         prev_infowindow = self.infowindow;
         prev_marker = self.marker;
         self.marker.setAnimation(google.maps.Animation.BOUNCE);
