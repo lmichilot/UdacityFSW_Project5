@@ -11,6 +11,6 @@ There's also extra information returned from Foursquare where available. This in
 ![`Screenshot`](https://s3.us-east-2.amazonaws.com/lmichilotproject5/img/screenshot.gif)
 # How To Use
 
-1. Open page: `index.html` or open this link [`Link`] (http://lmichilotproject5.s3-website.us-east-2.amazonaws.com/) to see demo.
+1. Open page: `index.html` or open this link: [`"Link to demo"`](http://lmichilotproject5.s3-website.us-east-2.amazonaws.com/).
 2. Click on any of the parked listed or click on the mark to show the park information.
 3. Type in if you want to filter the list of parks.
